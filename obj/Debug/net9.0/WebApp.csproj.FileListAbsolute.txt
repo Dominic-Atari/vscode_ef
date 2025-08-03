@@ -160,3 +160,4 @@ C:\Users\dominic\WebApp\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\dominic\WebApp\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\dominic\WebApp\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\dominic\WebApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\dominic\WebApp\obj\Debug\net9.0\WebApp.sourcelink.json
